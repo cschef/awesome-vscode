@@ -10,7 +10,7 @@
 
 选择字体 --> [https://github.com/rocj/fonts-for-coder](https://github.com/rocj/fonts-for-coder)
 
-```json
+```
 //settings.json
 {
     // 控制字体系列。
@@ -27,7 +27,7 @@
 
 * [Github Markdown Style](./vscode-markdown-css/markdown-github.css)
 
-```json
+```
 //settings.json
 {
     // 要在 Markdown 预览中使用的 CSS 样式表的 URL 或本地路径列表。相对路径被解释为相对于资源管理器中打开的文件夹。如果没有任何打开的文件夹，则会被解释为相对于 Markdown 文件的位置。所有的 "\" 需写为 "\\"。

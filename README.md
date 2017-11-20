@@ -9,7 +9,7 @@
 
 ## Font Setting
 
-选择字体 --> [https://github.com/rocj/fonts-for-coder](https://github.com/rocj/fonts-for-coder)
+选择字体 --> [github.com/rocj/fonts-for-coder](https://github.com/rocj/fonts-for-coder)
 
 ```
 //settings.json
@@ -24,7 +24,7 @@
 
 ## Markdown Preview
 
-选择渲染样式 --> [./vscode-markdown-css/](https://github.com/rocj/vscode-settings/tree/master/vscode-markdown-css)
+选择渲染样式 --> [./vscode-markdown-css/](https://github.com/rocj/awesome-vscode/tree/master/vscode-markdown-css)
 
 * [Github Markdown Style](./vscode-markdown-css/markdown-github.css)
 
